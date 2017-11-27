@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: jst.j2ee.tests.performance Plug-in
+Bundle-SymbolicName: org.eclipse.jst.j2ee.tests.performance
+Bundle-Version: 1.1.0.qualifier
+Bundle-ClassPath: performance.jar
+Bundle-Activator: org.eclipse.jst.j2ee.tests.performance.PerformancePlugin
+Bundle-Localization: plugin
+Eclipse-LazyStart: true
+Bundle-RequiredExecutionEnvironment: J2SE-1.5

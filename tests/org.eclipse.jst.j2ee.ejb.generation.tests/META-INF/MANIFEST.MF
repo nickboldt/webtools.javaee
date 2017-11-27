@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: org.eclipse.jst.j2ee.ejb.generation.tests Plug-in
+Bundle-SymbolicName: org.eclipse.jst.j2ee.ejb.generation.tests
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: annotationtests.jar
+Bundle-Activator: org.eclipse.jst.j2ee.ejb.generation.tests.TestsPlugin
+Bundle-Localization: plugin
+Eclipse-LazyStart: true
+Bundle-RequiredExecutionEnvironment: J2SE-1.5
